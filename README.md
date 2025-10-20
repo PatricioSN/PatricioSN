@@ -13,7 +13,7 @@
 - Cursando Ciência da Computação
 - Como me achar: [Linkedin](https://www.linkedin.com/in/patriciosn), [Discord](dragonittoo)
 
-Linguagens e Ferramentas:
+*Linguagens e Ferramentas:*
 
 <img width="50" height="50" alt="icons8-python-96" src="https://github.com/user-attachments/assets/b79f02cc-1736-4701-a830-e76672ac7990" />
 <img width="48" height="48" alt="icons8-linux-48" src="https://github.com/user-attachments/assets/2cf6a120-d823-42f7-a700-a5a4ace9febe" />
