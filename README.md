@@ -1,7 +1,7 @@
 <img width="1920" height="773" alt="Meu banner (cortado)" src="https://github.com/user-attachments/assets/74a026a4-4ec5-4846-963d-8962cd527176" />
 
 
-## Hi there 👋
+## Olá!
 
 ---
 
