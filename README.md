@@ -10,7 +10,7 @@
 - Freelancer
 - Graduado em CiberSegurança
 - Cursando Ciência da Computação
-- Como me achar: [Linkedin](https://www.linkedin.com/in/patriciosn), [Discord](dragonittoo)
+- Como me achar: [Linkedin](https://www.linkedin.com/in/patriciosn)
 
 **Linguagens e Ferramentas:**
 
