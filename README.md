@@ -38,4 +38,3 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/PatricioSN/PatricioSN/output/snake.svg" alt="Snake animation" />
